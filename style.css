@@ -1,0 +1,22 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 90vh;
+    background-image: url('./image/pokemon.jpg');
+}
+
+.container h1 {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+    font-family: 'Poppins', sans-serif;
+}
